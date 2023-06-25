@@ -147,7 +147,7 @@ main h2 {
     color: #1f2937;
 }
 
-/* SIGN UP */
+/* SIGN up */
 .sign-up {
     display: flex;
     justify-content: center;
@@ -183,3 +183,4 @@ footer {
     align-items: center;
     padding: 2em 0;
 }
+
